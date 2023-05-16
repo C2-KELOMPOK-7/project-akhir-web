@@ -57,6 +57,10 @@ Pengguna bisa melakukan register atau pembuatan akun dengan mengisi email, usern
   Seller dapat melihat dan mengatur Halaman pesanan,halaman pesanan ini berasal dari user yang melakukan transaksi Top up diamond pada game .
   ![image](https://github.com/C2-KELOMPOK-7/project-akhir-web/assets/120183022/f5f0a3e8-7db6-4126-a7bc-19124628babc)
 
+
+  Tampilan Ubah Pesanan
+  ![image](https://github.com/C2-KELOMPOK-7/project-akhir-web/assets/120183022/7a7d0286-9f20-41da-bfaa-6fc6ab1dc438)
+
   
   B. Search dan Sorting
   
